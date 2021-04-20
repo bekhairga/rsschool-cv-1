@@ -1,1 +1,1 @@
-https://gekkafear.github.io/rsschool-cv
+https://gekkafear.github.io/rsschool-cv/cv
